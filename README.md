@@ -31,3 +31,12 @@ work on files
 git add.
 git commit -m "initial coomit"
 git push
+
+
+Git diff: shows you what has been added to the file.
+You can check it before staging.
+
+If you wants to see the changed after stating;
+Git add .
+Git diff --cached
+
