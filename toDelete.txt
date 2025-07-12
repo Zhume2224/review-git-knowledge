@@ -1,0 +1,4 @@
+after deleting this file, you can still see the content in remote repo
+steps:
+git add .
+git commit -m "delete file and check file content practice"
